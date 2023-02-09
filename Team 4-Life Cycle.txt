@@ -1,0 +1,54 @@
+Life Cycle phases with definitions:
+
+  Requirements - Gather what the customer wants in a product(in our case, software)
+
+  Design - Write out a plan to put the requirements into a 
+
+  Implement - Code a solution for the requirements using your designs
+
+  Test - Where the product goes through the production environment with a testing group.
+
+  Release - Put the product into the production environment 
+
+  Maintain - After release, patch out bugs and problems that come from users using it in unexpected ways.
+
+  Update/upgrade - Create a new feature or upgrade the current product. 
+
+// 3 things about each phase
+
+Requirements 
+  1. Can be a pain to get all of them.
+  2. Continued communication with client if possible.
+  3. It's a long process that is constant sometimes. 
+
+Design
+  1. Whiteboarding a potential solution.
+  2. Sudo-coding out.
+  3. Make sure the client agrees with the design. 
+  
+Implementation
+  1. Using any coding language, code out someting that solves the problem in your design.
+  2. Happy path testing for correct input.
+  3. 
+
+Test
+  1. Other groups besides the dev teams test the product in a production environment.
+  2. Devs recieves feedback based on bugs and problems with product.
+  3. 
+
+Release
+  1. Build the product into the production environment 
+  2. 
+  3. 
+  
+Maintain
+  1. Investigate feedback from customers and users of the product where problems occured. 
+  2. The error/problem becomes the requirement in the new smaller life cycle.
+  3. 
+  
+Update/Upgrade 
+  1. The customer desides they want a new big feature, so that becomes a new requirement for the next version of the product's life cycle. 
+  2. Major change to the design or a feature of the product. 
+  3. 
+  
+  
